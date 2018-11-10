@@ -1,0 +1,36 @@
+      Trong vòng đời kiểm thử phần mềm có rất nhiều giai đoạn khác nhau . Đối với một nhân viên kiểm thử phần mềm, hiểu biết về kiểm thử chấp nhận (Acceptance Test) Là không thể thiếu.
+*, Vậy Acceptance Test là gì?
+- Đây là một kiểm thử liên quan đến nhu cầu của người sử dụng, yêu cầu và quy trình kinh doanh được tiến hành để xác định có hay không một hệ thống đáp ứng các tiêu chí chấp nhận và kiểm tra hệ thống đáp ứng yêu cầu của khách hàng.
+- Kiểm thử chấp nhận kiểm thử các chức năng để kiểm tra hành vi của hệ thống bằng cách sử dụng dữ liệu thực tế. Nó cũng được gọi là thử nghiệm người dùng doanh nghiệp.
+- Kiểm thử chấp nhận được thực hiện bởi người dùng cuối để kiểm tra hệ thống được xây dựng để phù hợp với yêu cầu kinh doanh của tổ chức.
+- Trong kiểm thử này, tất cả các giao diện đã được kết hợp và hệ thống đã hoàn thành và đã được kiểm tra. Người dùng cuối cũng thực hiện các kiểm thử để kiểm tra khả năng sử dụng của hệ thống.
+- Nhiều kỹ thuật kiểm thử chức năng sử dụng cho loại này là phân tích giá trị biên giới, phân vùng tương đương, bảng quyết định. Đây là loại kiểm tra tập trung chủ yếu vào các kiểm thử hợp lệ của hệ thống.
+Trong kiểm thử chấp nhận có hai mức độ kiểm thử là Alpha testing và Beta testing
+
++ Alpha Testing: Kiểm thử Alpha cũng được gọi là kiểm thử trang web off. Trong kiểm thử này quá trình kiểm thử sẽ kiểm tra các ứng dụng với sự hiện diện của người dùng cuối trong môi trường tổ chức.
++ Beta Testing: Kiểm thử Beta nên được thực hiện bởi người dùng cuối trong môi trường riêng của họ với sự hiện diện của đội phát hành.
+
+*, Làm thế nào để Acceptance Test được sử dụng???
+Điều kiện tiên quyết
+
+1. Kiểm thử hệ thống được hoàn thành
+2. Yêu cầu doanh nghiệp có sẵn
+3. Môi trường kiểm thử chấp nhận sẵn sàng
+
+Tiến trình
+
+1. Phân tích các yêu cầu doanh nghiệp
+2. Tạo một kế hoạch kiểm thử chấp nhận
+3. Xác định các kịch bản kiểm thử chấp nhận
+4. Tạo các trường hợp kiểm thử chấp nhận
+5. Thực hiện test các trường hợp kiểm thử chấp nhận
+6. Xác nhận các mục tiêu doanh nghiệp
+
+Tiêu chí hoàn thành
+
+1. Không có các lỗi quan trọng còn chưa được sửa
+2. Quá trình kinh doanh đang làm việc tốt
+3. Có một dấu hiệu hoàn thành trên kiểm thử chấp nhận từ các khách hàng doanh nghiệp hoặc các bên liên quan
+4. Không có vấn đề liên quan đến bảo mật
+
+
